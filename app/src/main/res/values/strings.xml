@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticaLogin</string>
+    <string name="txtUsuario">Ingrese usuario</string>
+    <string name="txtPassword">Ingrese su password</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="txtBienvenida">Bienvenidos a la aplicacion</string>
+    <string name="txtLogueado">Acceso de Usuario :   .</string>
+</resources>
